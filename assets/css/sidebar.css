@@ -1,0 +1,98 @@
+
+.sidebar-section{
+background-color: lavenderblush;
+}
+
+.sidebar-title{
+    font-weight: bolder;
+}
+
+/* =========== ABOUT ME SECTION =========== */
+/* Use this to style the about me image */
+.sidebar-my-image {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    height: 200px;
+    width: 200px;
+}
+
+.sidebar-my-name{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+/* POSITION SOCIAL MEDIA ICONS */
+.sidebar-social-media{
+    padding: 5px;
+    text-align: center;
+
+  
+}
+
+/* SOCIAL MEDIA ICONS */
+.sidebar-social-icon{
+      display: inline-block;
+      color: mediumpurple;
+      padding: 10px;
+      margin: 10px;
+      border: 3px solid lightsteelblue;
+      background-color: lavender;
+}
+
+.sidebar-social-icon:hover{
+    background-color: mistyrose;
+    color: rebeccapurple;
+}
+
+/* =========== CTS SECTION =========== */
+
+/* CTS Image Logo */
+.sidebar-cts-logo{
+    width: 100%;
+}
+
+/* CTS LINK */
+.sidebar-cts-link{
+    display: block;
+    color: mediumpurple;
+    border: 3px solid lightsteelblue;
+    background-color: lavender;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 2px;
+}
+
+.sidebar-cts-link:hover {
+    background-color: mistyrose;
+    color: rebeccapurple;
+}
+
+
+/* =========== TAGS SECTION =========== */
+
+.sidebar-tag {
+    display: inline-block;
+    padding: 12px;
+    margin: 3px;
+    color: mediumpurple;
+    background-color: lavender;
+    border: 3px solid lightsteelblue;
+    font-weight: 500px;
+}
+
+
+.sidebar-tag:hover {
+    background-color: mistyrose;
+    color: rebeccapurple;
+}
+
+.sidebar-cts-paragraph{
+    font-weight: 400;
+    font-size: 16;
+}
+
